@@ -1,0 +1,21 @@
+
+.bg{
+    background-image: url(images/nue.jfif);
+    background-position: center center;
+}
+    
+    
+body{
+    background: (#ffe259);
+    background: linear-gradient(to right, #ffb76f, #ffe772);
+    
+    }
+
+.mon{
+        float: right;
+    }
+
+
+
+
+    
